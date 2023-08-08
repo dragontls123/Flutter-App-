@@ -81,4 +81,5 @@ main() {
   obj2.data = 20;
 
   print("${obj1.data}, ${obj2.data}"); //20, 20
+
 }
