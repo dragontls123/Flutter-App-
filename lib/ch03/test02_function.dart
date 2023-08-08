@@ -36,17 +36,11 @@ main() {
   myFun2(some);
   myFun2((int arg) => arg * 10);
 
-  void myFun3(MyFunctionType<int, int> argFun){}
+  void myFun3(MyFunctionType<int, int> argFun) {}
   myFun3(some);
 
   //null safety operator
-  User? user =null;
+  User? user = null;
 
-  var a=user?.some() ?? "wolrd";
-
-
-
-
-
-
+  var a = user?.some() ?? "wolrd";
 }
