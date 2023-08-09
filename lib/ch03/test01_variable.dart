@@ -64,6 +64,6 @@ main() {
   List<List<int>> list3 = [[1, 2], [3, 4, 5]];
 
   // map
-  Map<String, String> map1 = {"One": "hello", "2": "world"}
+  Map<String, String> map1 = {"One": "hello", "2": "world"};
   map1["one"];
 }
