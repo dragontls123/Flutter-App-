@@ -39,8 +39,10 @@ dependencies:
   fluttertoast: ^8.2.1
   page_indicator: ^0.4.1
   font_awesome_flutter: ^10.4.0
-  http: ^1.1.0
-
+  http: ^0.13.5
+  rxdart: 0.27.7
+  bloc: ^8.1.1
+  flutter_bloc: ^8.1.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
